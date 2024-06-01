@@ -2,7 +2,9 @@ package list.operacoesBasicas;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/*
+    Autora do código Expert Camila Cavalcante
+*/
 public class CarrinhoDeCompras {
     //atributos
     private List<Item> itemList;

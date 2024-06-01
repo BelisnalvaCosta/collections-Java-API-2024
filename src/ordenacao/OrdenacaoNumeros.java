@@ -3,7 +3,9 @@ package ordenacao;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
+/*
+    Autora do código Expert Camila Cavalcante
+*/
 public class OrdenacaoNumeros {
     //atributos
     private List<Integer> numerosList;
